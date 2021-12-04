@@ -1,0 +1,2 @@
+# RawBoost-antispoofing
+This repository includes the code to reproduce our paper "RawBoost: A Raw Data Boosting and Augmentation Method applied to Automatic Speaker Verification Anti-Spoofing",  submitted to ICASSP 2022. This work introduce RawBoost, a data boosting and augmentation method for the design of more reliable spoofing detection solutions which operate directly upon raw waveform inputs.

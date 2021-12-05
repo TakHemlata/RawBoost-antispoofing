@@ -44,8 +44,9 @@ This repository is built on our End-to-end RawNet2 (ASVspoof2021 Challenge basel
 
 ## Contact
 For any query regarding this repository, please contact:
-- Massimiliano Todisco: todisco[at]eurecom[dot]fr
 - Hemlata Tak: tak[at]eurecom[dot]fr
+- Massimiliano Todisco: todisco[at]eurecom[dot]fr
+
 ## Citation
 If you use RawBoost code in your research please use the following citation:
 

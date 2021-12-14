@@ -38,7 +38,7 @@ We also provide a pre-trained models. To use it you can run:
 python main.py --track=LA --loss=WCE --is_eval --eval --model_path='Pre_trained_models.pth' --eval_output='RawBoost_eval_CM_scores.txt'
 ```
 
-This repository is built on our End-to-end RawNet2 (ASVspoof2021 Challenge baseline).
+This repository is built on our End-to-end RawNet2 CM system (ASVspoof2021 Challenge baseline).
 - [ASVspoof 2021 Challenge baseline repo](https://github.com/asvspoof-challenge/2021/tree/main/LA/Baseline-RawNet2)
 
 

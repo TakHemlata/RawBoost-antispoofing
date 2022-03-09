@@ -42,7 +42,7 @@ def produce_evaluation_file(dataset, model, device, save_path):
         score_list = []  
         batch_size = batch_x.size(0)
         batch_x = batch_x.to(device)
-        batch_out = model(batch_x,is_test=True)
+        batch_out = model(batch_x)
         batch_score = (batch_out[:, 1]
                        ).data.cpu().numpy().ravel()
         # add outputs

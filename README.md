@@ -51,11 +51,11 @@ For any query regarding this repository, please contact:
 If you use RawBoost code in your research please use the following citation:
 
 ```bibtex
-@article{tak2021rawboost,
+@inproceedings{tak2021rawboost,
   title={RawBoost: A Raw Data Boosting and Augmentation Method applied to Automatic Speaker Verification Anti-Spoofing},
   author={Tak, Hemlata and Kamble, Madhu and Patino, Jose and Todisco, Massimiliano and Evans, Nicholas},
-  journal={arXiv preprint arXiv:2111.04433},
-  year={2021}
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2022}
 }
 ```
 

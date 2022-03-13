@@ -13,7 +13,7 @@ ___author__ = "Hemlata Tak, Massimiliano Todisco"
 __email__ = "{tak,todisco}@eurecom.fr"
 
 
-#--------------RawBoost data auigmentation algorithms---------------------------##
+#--------------RawBoost data augmentation algorithms---------------------------##
 
 def process_Rawboost_feature(feature, sr,args,algo):
     

@@ -6,11 +6,6 @@ from scipy import signal
 import copy
 
 
-"""
-___author__ = "Massimiliano Todisco, Hemlata Tak"
-__email__ = "{todisco,tak}@eurecom.fr"
-"""
-
 def randRange(x1, x2, integer):
     y = np.random.uniform(low=x1, high=x2, size=(1,))
     if integer:

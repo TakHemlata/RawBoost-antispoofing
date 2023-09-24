@@ -12,8 +12,8 @@ from model import RawNet
 from tensorboardX import SummaryWriter
 from core_scripts.startup_config import set_random_seed
 
-__author__ = "Hemlata Tak, Massimiliano Todisco"
-__email__ = "{tak,todisco}@eurecom.fr"
+__author__ = "Hemlata Tak"
+__email__ = "tak@eurecom.fr"
 
 
 
